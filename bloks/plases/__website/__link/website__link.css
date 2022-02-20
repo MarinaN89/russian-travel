@@ -1,0 +1,12 @@
+.website__link{
+    list-style-type: none;
+    margin-left: -60px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    cursor: pointer;
+}
+.website__link a{
+    color: #fff;
+}
