@@ -31,8 +31,8 @@
 @import url(../bloks/plases/__paragraph-two/plases__paragraph-two.css);
 @import url(../bloks/plases/__title/plases__title.css);
 @import url(../bloks/plases/__title-two/plases__title-two.css);
-@import url(../bloks/plases/__website/__link/website__link.css);
-@import url(../bloks/plases/__website/__url-heding/website__url-heding.css);
+@import url(../bloks/plases/__website/_link/plases__website_link.css);
+@import url(../bloks/plases/__website/_url-heding/plases__website_url-heding.css);
 @import url(../bloks/plases/__website/plases__website.css);
 @import url(../bloks/plases/plases.css);
 

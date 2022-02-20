@@ -1,4 +1,4 @@
-.website__link{
+.plases__website_link{
     list-style-type: none;
     margin-left: -60px;
     font-style: normal;
@@ -7,6 +7,6 @@
     line-height: 22px;
     cursor: pointer;
 }
-.website__link a{
+.plases__website_link a{
     color: #fff;
 }
