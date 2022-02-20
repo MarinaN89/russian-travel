@@ -1,8 +1,8 @@
-.plases__header{
+.plase__header{
     display: flex;
     height: 200px;
     margin-right: 390px;
 }
-.plases__header li{
+.plase__header li{
     list-style-type: none;
 }

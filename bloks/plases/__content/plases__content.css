@@ -1,11 +1,11 @@
-.plases__content{
+.plase__content{
     display: flex;
     margin: 0;
     align-items: center;
 }
-.plases__content li{
+.plase__content li{
     list-style-type: none;
 }
-.plases__content ul{
+.plase__content ul{
     padding-left: 0;
 }
