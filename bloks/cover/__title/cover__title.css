@@ -14,17 +14,17 @@
     position: absolute;
    text-decoration: none;
   }
-  @media all and (min-width: 1024px)and (max-device-width : 1239px) {
+  @media all and (min-width: 1024px)and (max-device-width: 1239px) {
     .cover__title{
       margin: 180px auto;
      }
   }
-  @media all and (min-width: 768px)and (max-device-width : 960px) {
+  @media all and (min-width: 768px)and (max-device-width: 960px) {
     .cover__title{
       margin:110px auto;
      }
   }
-  @media all and (min-width: 320px)and (max-device-width : 720px){
+  @media all and (min-width: 320px)and (max-device-width: 720px){
     .cover__title{
       margin:30px auto;
       font-size: 32px;
