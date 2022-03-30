@@ -1,9 +1,0 @@
-.photo-grid{
-  justify-items: center;
-    display: grid;
-    margin-top: 92px;
-
-  }
-  .photo-grid h2{
-    display: none;
-  }
