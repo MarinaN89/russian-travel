@@ -1,0 +1,8 @@
+.plases__header-two{
+    display: flex; 
+    height: 200px; 
+    margin-right: 390px;
+}
+.plases__header-two li{
+    list-style-type: none;
+}

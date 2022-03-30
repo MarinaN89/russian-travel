@@ -1,0 +1,23 @@
+
+.cover{
+    height: 740px;
+    margin-top: 92px;
+    position: relative;
+}
+@media all and (min-width: 1024px)and (max-device-width : 1239px) {
+    .cover{
+        height: 600px;
+     }
+  }
+  @media all and (min-width: 768px)and (max-device-width : 960px) {
+    .cover{
+        height: 500px;
+     }
+  }
+  @media all and (min-width: 320px)and (max-device-width : 720px){
+    .cover{
+      height: 200px;
+     }
+  }
+ 
+ 

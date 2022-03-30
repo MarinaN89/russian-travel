@@ -23,16 +23,18 @@
 @import url(../bloks/photo-grid/photo-grid.css);
 @import url(../bloks/photo-grid/__item/__item-img/photo-grid__item-img.css);
 
-
+@import url(../bloks/plases/__content/plases__content.css);
+@import url(../bloks/plases/__header/plases__header.css);
+@import url(../bloks/plases/__header-two/plases__header-two.css);
+@import url(../bloks/plases/__image/plases__image.css);
+@import url(../bloks/plases/__paragraph/plases__paragraph.css);
+@import url(../bloks/plases/__paragraph-two/plases__paragraph-two.css);
+@import url(../bloks/plases/__title/plases__title.css);
+@import url(../bloks/plases/__title-two/plases__title-two.css);
+@import url(../bloks/plases/__website/__link/website__link.css);
+@import url(../bloks/plases/__website/__url-heding/website__url-heding.css);
+@import url(../bloks/plases/__website/plases__website.css);
 @import url(../bloks/plases/plases.css);
-@import url(../bloks/plases/plase/plase.css);
-@import url(../bloks/plases/plase/__website/__link/website__link.css);
-@import url(../bloks/plases/plase/__website/__url-heading/website__url-heading.css);
-@import url(../bloks/plases/plase/__title/plase__title.css);
-@import url(../bloks/plases/plase/__paragraph/plase__paragraph.css);
-@import url(../bloks/plases/plase/__image/plase__image.css);
-@import url(../bloks/plases/plase/__website/plase__website.css);
-
 
 @import url(../bloks/cover/__background/cover__background.css);
 @import url(../bloks/cover/__overlay/cover__overlay.css);

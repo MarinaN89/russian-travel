@@ -1,0 +1,11 @@
+.plases__content{
+    display: flex;
+    margin: 0;  
+    align-items: center;
+}
+.plases__content li{
+    list-style-type: none; 
+}
+.plases__content ul{
+    padding-left: 0; 
+}

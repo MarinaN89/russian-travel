@@ -1,0 +1,12 @@
+.plases__paragraph{
+    list-style-type: none;
+    width: 484px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 163%;
+    margin-top: 0; 
+    margin-bottom: 32px;
+    color: #fff;
+    padding-left: 28px;
+}
