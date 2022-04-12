@@ -6,7 +6,7 @@
 * Картинки
 
 **Интро**
-* [Ссылка на проект в Gihub](https://github.com/MarinaN89/russian-travel)
+* [Ссылка на проект в Gihub](https://marinan89.github.io/russian-travel/)
 
 **Figma**
 
