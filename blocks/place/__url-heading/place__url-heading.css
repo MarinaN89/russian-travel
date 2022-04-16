@@ -6,4 +6,9 @@
     line-height: 12px;
     letter-spacing: 2px;
     color: #aaa;
- }
+}
+@media all and (min-width:320px)and (max-width:700px){
+    .place__url-heading{
+           margin-top: -400px;
+           }
+     }

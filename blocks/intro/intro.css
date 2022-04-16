@@ -1,31 +1,22 @@
 .intro{
-    display: grid;
-    margin-left: 18%;
     margin-top: 92px;
    }
+   .intro ul{
+    list-style-type: none;
+    margin:  auto ;
+    padding: 0;
+    max-width: 800px;
+    padding-right: 190px;
+   }
+   @media all and (min-width:1000px)and (max-width:1025px){
+    .intro ul{
+        padding-right: 120px;
+     }
   
-   @media all and (min-width:1240px)and (max-width:1280px){
-    .intro{
-        margin-left: 18%;
-      }
   }
-  @media all and (min-width:1024px)and (max-width:1239px){
-    .intro{
-        margin-left: 5%;
-      }
-
-}
-  @media all and (min-width:768px)and (max-width:960px){
-    .intro{
-        margin-left: 3%;
-      }
-
-  }
-
-  @media all and (min-width:320px)and (max-width:720px){
-    .intro{
-        margin-left: 2%;
-        margin-top: 20px;
-      }
-
+  @media all and (min-width:320px)and (max-width:1000px){
+    .intro ul{
+        padding-right: 0;
+        margin-left: 20px;
+     }
   }
